@@ -1,0 +1,20 @@
+{
+  "name": "PWA Testing Application",
+  "short_name": "PWA Test App",
+  "start_url": "/",
+  "background_color": "#ee6557",
+  "theme_color": "#009578",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
